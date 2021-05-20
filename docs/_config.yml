@@ -3,3 +3,5 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 search_enabled: false
 markdown: kramdown
+
+theme: jekyll-theme-cayman

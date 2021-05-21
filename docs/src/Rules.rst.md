@@ -1,5 +1,0 @@
-Rules list {#Rules}
-==========
-
-Introduction
-------------
